@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\DANIEL\source\repos\Lab8DanielXiquin1118423\Lab8DanielXiquin1118423\Source.cpp(264,20): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  Lab8DanielXiquin1118423.vcxproj -> C:\Users\DANIEL\source\repos\Lab8DanielXiquin1118423\x64\Debug\Lab8DanielXiquin1118423.exe
